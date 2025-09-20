@@ -62,7 +62,7 @@ Thank you for contributing to this repository. This document explains how team m
 
 ### Licensing and rights
 
-* All contributions must be compatible with the repository license. Check [LICENSE](./LICENSE.md) before adding code or materials.
+* All contributions must be compatible with the repository license. Check [LICENSE](./LICENSE) before adding code or materials.
 * By contributing, you confirm you have the right to submit the content under the project license.
 
 ---
